@@ -1,0 +1,7 @@
+Chose option:
+[1] show all process
+[2] show tempurature
+[3] save all process view in file
+[4] save tempurature view in  file
+[5] update the system
+---------------------------------------------------------------------
